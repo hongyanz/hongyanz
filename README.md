@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently an assistant professor at University of Waterloo and Vector Institute.
+- 🌱 I’m an assistant professor at University of Waterloo and Vector Institute.
 - 🔭 I’m currently working on machine learning, AI safety, and large language models.
 
 <!--
