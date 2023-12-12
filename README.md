@@ -2,6 +2,8 @@
 
 - 🌱 I’m an assistant professor at University of Waterloo and Vector Institute.
 - 🔭 I’m currently working on machine learning, AI safety, and large language models.
+- 📫 How to reach me: hongyang.zhang@uwaterloo.ca
+- 👯 My lab's Github page: https://github.com/SafeAILab
 
 <!--
 **hongyanz/hongyanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
